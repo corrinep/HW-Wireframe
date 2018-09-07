@@ -29,7 +29,8 @@ body {
 }
 
 .aside {
-    width: 465px;
+    width: 460px;
+    height: 224px;
     float: right;
     padding: 5px;
     color: #777;
